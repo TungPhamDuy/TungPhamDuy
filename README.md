@@ -28,4 +28,4 @@
 
 ### Open source projects:
 <p align="center">
-  <a href="https://github.com/TungPhamDuy/anomaly-detection-in-industry-manufacturing"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TungPhamDuy&repo=technical-analysis-with-python&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="technical-analysis-with-python"></a>
+  <a href="https://github.com/TungPhamDuy/anomaly-detection-in-industry-manufacturing"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TungPhamDuy&repo=technical-analysis-with-python&hide_border=true&bg_color=89c4ff&title_color=005ab3&icon_color=F8D866&theme=react&show_icons=false" alt="technical-analysis-with-python"></a>
