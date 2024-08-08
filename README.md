@@ -9,8 +9,7 @@
 ### About:
 - ??? *incoming update, currently burn out*
 
-> [!CALLOUT]\
-> Yes! what?
+<p class="call out success"> casual respone: "..what?"</p>
 
 ### Stacks:
 <div align="left">
