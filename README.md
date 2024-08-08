@@ -1,4 +1,15 @@
-# Stacks
+### Information:
+- Fullname: Pham Duy Tung
+- DOB: 09/02/2001
+- Pronouns: He/Him
+- Role: Data Analyst
+- Major: Financial Technology
+- Institution: University of Economics and Law - VNU HCMC
+
+### About:
+- ??? * incoming update, currently burn out *
+
+### Stacks:
 <div align="left">
   <img src="resource_tech_stack_svg/python.svg" width="50" height="50" style="margin-left: 30px;"/> 
   <img src="resource_tech_stack_svg/r-lang.svg" width="50" height="50" style="margin-left: 30px;"/> 
