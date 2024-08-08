@@ -25,7 +25,3 @@
   <img src="resource_tech_stack_svg/apache-spark.svg" width="50" height="50" style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/jupyter.svg" width="50" height="50"  style="margin-left: 30px;"/>
 </div>
-
-### Open source projects:
-<p align="center">
-  <a href="https://github.com/TungPhamDuy/anomaly-detection-in-industry-manufacturing"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TungPhamDuy&repo=technical-analysis-with-python&hide_border=true&bg_color=f0f7ff&title_color=005ab3&icon_color=F8D866&theme=react&show_icons=false" alt="technical-analysis-with-python"></a>
