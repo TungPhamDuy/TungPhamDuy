@@ -9,7 +9,8 @@
 ### About:
 - ??? *incoming update, currently burn out*
 
-<p class="call out success"> casual respone: "..what?"</p>
+>[!NOTE]
+> this is a casual respone: "..w-whhat?"
 
 ### Stacks:
 <div align="left">
