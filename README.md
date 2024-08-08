@@ -9,7 +9,7 @@
 ### About:
 - ??? *incoming update, currently burn out*
 
-> [!NOTE]\
+> [!About]\
 > Yes! what?
 
 ### Stacks:
