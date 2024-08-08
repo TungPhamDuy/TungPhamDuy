@@ -9,6 +9,9 @@
 ### About:
 - ??? *incoming update, currently burn out*
 
+> [!NOTE]\
+> Yes! what?
+
 ### Stacks:
 <div align="left">
   <img src="resource_tech_stack_svg/python.svg" width="50" height="50" style="margin-left: 30px;"/> 
