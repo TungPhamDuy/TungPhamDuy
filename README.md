@@ -24,4 +24,5 @@
   <img src="resource_tech_stack_svg/tensorflow.svg" width="50" height="50" style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/apache-spark.svg" width="50" height="50" style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/jupyter.svg" width="50" height="50"  style="margin-left: 30px;"/>
+  <img src="resource_tech_stack_svg/postgresql.svg" width="50" height="50"  style="margin-left: 30px;"/>
 </div>
