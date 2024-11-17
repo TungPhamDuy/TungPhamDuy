@@ -7,10 +7,10 @@
 - **Institution**: University of Economics and Law - VNU HCMC
 
 ### About:
-- ??? *incoming update, currently burn out*
+- ??? *incoming update, currently burn out* (┬┬﹏┬┬)
 
 >[!NOTE]
-> this is a casual respone: "..w-whhat?"
+> casual mood: ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ### Stacks:
 <div align="left">
