@@ -2,7 +2,7 @@
 - **Fullname**: Pham Duy Tung
 - **DOB**: 09/02/2001
 - **Pronouns**: He/Him
-- **Role**: Data Analyst
+- **Role**: Data Scientist
 - **Major**: Financial Technology
 - **Institution**: University of Economics and Law - VNU HCMC
 
