@@ -3,8 +3,8 @@
 - **DOB**: 09/02/2001
 - **Pronouns**: He/Him
 - **Role**: Data Scientist
-- **Major**: Financial Technology
-- **Institution**: University of Economics and Law - VNU HCMC
+- **BS Major / Institution**: Financial Technology / University of Economics and Law - VNU HCMC
+- **MsE Major / Institution**: Computer Science (Data Science) / University of Technology - VNU HCMC
 
 ### About:
 - ??? *incoming update, currently burn out* (┬┬﹏┬┬)
