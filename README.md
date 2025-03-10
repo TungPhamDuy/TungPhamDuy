@@ -8,7 +8,7 @@
   + **MsE**: Computer Science (Data Science) / University of Technology - VNU HCMC
 
 ### About:
-- ??? *incoming update, currently burn out* (┬┬﹏┬┬)
+- *incoming update, currently burn out* (┬┬﹏┬┬)
 
 >[!NOTE]
 > casual mood: ☆*: .｡. o(≧▽≦)o .｡.:*☆
