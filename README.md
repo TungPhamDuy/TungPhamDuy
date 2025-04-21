@@ -5,7 +5,7 @@
 - **Role**: Data Scientist
 - **Education (Major / Institution)**:
   + **BS**: Financial Technology / University of Economics and Law - VNU HCMC
-  + **MsE**: Computer Science (Data Science) / University of Technology - VNU HCMC
+
 
 ### About:
 - *incoming update, currently burn out* (┬┬﹏┬┬)
