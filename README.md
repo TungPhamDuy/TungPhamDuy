@@ -4,8 +4,8 @@
 - **Pronouns**: He/Him
 - **Role**: Data Scientist
 - **Education (Major / Institution)**:
-  + **BS**: Financial Technology / University of Economics and Law - VNU HCMC
-
+  + **BSc**: Financial Technology / University of Economics and Law - VNU HCMC
+  + **MSc**: Computer Science / University of Technology - VNU HCMC
 
 ### About:
 - *incoming update, currently burn out* (┬┬﹏┬┬)
