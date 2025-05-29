@@ -15,9 +15,6 @@
 
 ### Stacks:
 
-#### Programming languages:  
-### Stacks:
-
 | Category | Technologies |
 |---|---|
 | **Programming languages** | <img src="resource_tech_stack_svg/python.svg" width="50" height="50"/> <img src="resource_tech_stack_svg/r-lang.svg" width="50" height="50"/> <img src="resource_tech_stack_svg/mysql.svg" width="50" height="50"/> <img src="resource_tech_stack_svg/postgresql.svg" width="50" height="50"/> |
