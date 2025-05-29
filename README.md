@@ -42,12 +42,11 @@
   <img src="resource_tech_stack_svg/azure-fabric.png" width="50" height="50"  style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/apache-spark.svg" width="50" height="50" style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/databrick.png" width="50" height="50"  style="margin-left: 30px;"/>
-  <img src="resource_tech_stack_svg/databrick.png" width="50" height="50"  style="margin-left: 30px;"/>
 </div>
 
 #### Business intelligence & Reporting:  
 <div align="left">
   <img src="resource_tech_stack_svg/microsoft-power-bi.svg" width="50" height="50" style="margin-left: 30px;"/> 
   <img src="resource_tech_stack_svg/microsoft-sql-server.png" width="50" height="50" style="margin-left: 30px;"/>
-  <img src="resource_tech_stack_svg/microsoft-tagetik.png" width="50" height="50" style="margin-left: 30px;"/>
+  <img src="resource_tech_stack_svg/tagetik.png" width="50" height="50" style="margin-left: 30px;"/>
 </div>
