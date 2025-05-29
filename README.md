@@ -39,7 +39,7 @@
   <img src="resource_tech_stack_svg/azure-data-factory.png" width="50" height="50"  style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/azure-synapse.png" width="50" height="50"  style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/azure-machine-learning.png" width="50" height="50"  style="margin-left: 30px;"/>
-  <img src="resource_tech_stack_svg/azure-fabric.png" width="50" height="50"  style="margin-left: 30px;"/>
+  <img src="resource_tech_stack_svg/azure-fabric.svg" width="50" height="50"  style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/apache-spark.svg" width="50" height="50" style="margin-left: 30px;"/>
   <img src="resource_tech_stack_svg/databrick.png" width="50" height="50"  style="margin-left: 30px;"/>
 </div>
